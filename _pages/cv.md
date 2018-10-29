@@ -43,6 +43,21 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+ 
+Research Funding
+======
+* EPSRC research fellowship EP/P033830/1, August 2017 – July 2020
+  * £293,118.
+  * Research fellow and principal investigator.
+* Max Planck Institute fellowship, April 2018
+  * Approximately C2,100.
+  * Visiting researcher.
+* Funded by ANR JCJC-2013 ArtiQ , December 2014 – February 2015
+  * Approximately £5,400.
+  * Doctoral researcher.
+* CNRS – UCL IMPACT joint studentship, December 2011 – November 2014
+ * Approximately £65,000.
+ * Doctoral researcher.
   
 Talks
 ======
