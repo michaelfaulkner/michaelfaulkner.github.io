@@ -56,8 +56,8 @@ Research Funding
   * Approximately £5,400.
   * Doctoral researcher.
 * CNRS – UCL IMPACT joint studentship, December 2011 – November 2014
- * Approximately £65,000.
- * Doctoral researcher.
+  * Approximately £65,000.
+  * Doctoral researcher.
   
 Talks
 ======
