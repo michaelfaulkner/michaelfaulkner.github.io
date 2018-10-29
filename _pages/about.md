@@ -1,13 +1,12 @@
 ---
 permalink: /
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-==================
 
 I'm an [EPSRC research fellow](https://epsrc.ukri.org/about/people/michaelfaulkner/) at the [University of Bristol](https://research-information.bristol.ac.uk/en/persons/michael-faulkner(76c7604a-6db1-4d4f-948e-db5a1f7afc2b).html) and a visiting scientist at [Ecole normale supérieure](http://www.phys.ens.fr/?lang=fr). My research is centred on statistical physics, which means that I use statistics to model many particles interacting with one another in a single system. This allows us to predict and utilize the macroscopic properties of the materials used in modern technology and medical science.
 
