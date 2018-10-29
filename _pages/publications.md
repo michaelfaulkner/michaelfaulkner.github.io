@@ -12,5 +12,5 @@ Open-source versions are available on the [arXiv](https://arxiv.org/search/?sear
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include author-profile.html %}
+  {% include category-list.html %}
 {% endfor %}
