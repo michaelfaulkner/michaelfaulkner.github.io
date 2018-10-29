@@ -14,3 +14,5 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Open-source versions of my publications and submissions are available on the [arXiv](https://arxiv.org/search/?searchtype=author&query=Faulkner%2C+M+F).
