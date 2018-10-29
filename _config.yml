@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Michael Faulkner"
-  avatar           : "BristolPhoto"
+  avatar           : "BristolPhoto.jpg"
   bio              : "Computational statistical physicist working on electrostatics and nonreversible Markov-chain Monte Carlo"
-  employer         : "[University of Bristol](https://research-information.bristol.ac.uk/en/persons/michael-faulkner(76c7604a-6db1-4d4f-948e-db5a1f7afc2b).html)"
-  location         : "[Ecole normale supérieure](http://www.phys.ens.fr/?lang=fr)"
+  location         : "Bristol / Paris"
+  employer         :
   googlescholar    : "https://scholar.google.co.uk/citations?hl=en&user=uFW1iN4AAAAJ&view_op=list_works&gmla=AJsN-F6QhUFJ7kRjW_OCY-lAWaHwUqZKiaJFOcRdl7TIzHPpC-9kR-yPUpTDeWepq0-3l9LkdZRxGxE--IRrOF7msyldHypL8OqssQJnUtZSZh-aJPbKEEM"
   email            :
   uri              :
