@@ -15,7 +15,7 @@ Employment History
   * Principal investigator on EPSRC fellowship EP/P033830/1 in the HH Wills Physics Laboratory.
   * Real and emergent long-range interactions in statistical physics.
   * Markov-chain Monte Carlo (MCMC) algorithms for physics and Bayesian computation.
-* Visiting scientist, Ecole normale supérieure (ENS Paris), August 2017 – July 2020
+* Visiting scientist, Ecole normale supérieure, Paris, August 2017 – July 2020
   * Collaborative project developing MCMC algorithms for systems with long-range interactions (e.g., water).
 * Visiting scientist, Max Planck Institute for the Physics of Complex Systems, Dresden, April 2018
   * Pilot project developing industrial standard version of our new MCMC water algorithm.
@@ -29,7 +29,7 @@ Education
 * PhD Theoretical Physics, 2011 – 2015
   * University College London and Ecole normale supérieure de Lyon
   * Avec la mention très honorable (the highest available honour).
-  * Supervisors: Steven T. Bramwell (UCL) and Peter C. W. Holdsworth (ENS Lyon).
+  * Supervisors: Steven T. Bramwell and Peter C. W. Holdsworth.
   * Examiners: Ian J. Ford, Anthony C. Maggs, Stephen Powell and Tommaso Roscilde.
 * MASt in Applied Mathematics, 2010 – 2011
   * University of Cambridge
@@ -50,7 +50,7 @@ Research Funding
   * £293,118.
   * Research fellow and principal investigator.
 * Max Planck Institute fellowship, April 2018
-  * Approximately C2,100.
+  * Approximately €2,100.
   * Visiting researcher.
 * Funded by ANR JCJC-2013 ArtiQ , December 2014 – February 2015
   * Approximately £5,400.
