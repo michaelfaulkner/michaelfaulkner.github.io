@@ -12,7 +12,7 @@ I'm an [EPSRC research fellow](https://epsrc.ukri.org/about/people/michaelfaulkn
 
 Short bio
 ======
-After receiving my doctorate from University College London and Ecole normale supérieure de Lyon in 2015, I moved to Bristol for a short postdoc and then a teaching position in the School of Mathematics in 2016. I then moved to the School of Physics to start my EPSRC research fellowship in August 2017.
+After receiving my doctorate from University College London and Ecole normale supérieure de Lyon in 2015, I moved to Bristol for a short postdoc followed by a teaching position in the School of Mathematics in 2016. I then moved to the School of Physics to start my EPSRC research fellowship in August 2017.
 
 <!---
 My research is centred on statistical physics, which means that I use statistics to model many particles interacting with one another in a single system. This allows us to predict and utilize the macroscopic properties of the materials and living matter used in modern technology and medicine. A lot of my time is spent developing computational algorithms to do this. This has led to collaborations with statisticians working in data science, where the same Markov-chain Monte Carlo methods are used. For more details, please see my [research page](/research/).
