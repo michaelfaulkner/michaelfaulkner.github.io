@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -11,7 +10,6 @@ redirect_from:
 
 Open-source versions and citation information are available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Faulkner%2C+M+F) on [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=uFW1iN4AAAAJ&view_op=list_works&gmla=AJsN-F6QhUFJ7kRjW_OCY-lAWaHwUqZKiaJFOcRdl7TIzHPpC-9kR-yPUpTDeWepq0-3l9LkdZRxGxE--IRrOF7msyldHypL8OqssQJnUtZSZh-aJPbKEEM).
 <br/>
-
 ## All-atom computations with irreversible Markov chains
 Michael F. Faulkner, Liang Qin, Anthony C. Maggs and Werner Krauth
 <br/>
