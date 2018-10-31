@@ -40,9 +40,38 @@ Education
 
 Publications
 ======
+
+* All-atom computations with irreversible Markov chains
+  * M. F. Faulkner, L. Qin, A. C. Maggs and W. Krauth
+  * J. Chem. Phys. 149, 064113 (2018)
+  
+* Kinetic-energy choice in hybrid/Hamiltonian Monte Carlo
+  * S. Livingstone, M. F. Faulkner and G. O. Roberts
+  * In submission; arXiv:1706.02649 (2017)
+
+* An electric-field representation of the harmonic XY model
+  * M. F. Faulkner, S. T. Bramwell and P. C. W. Holdsworth
+  * J. Phys.: Condens. Matter 29 085402 (2017)
+
+* From quantum to thermal topological-sector fluctuations of strongly interacting bosons in a
+ring lattice
+  * T. Roscilde, M. F. Faulkner, S. T. Bramwell and P. C. W. Holdsworth
+  * New J. Phys. 18 075003 (2016) (by invitation)
+
+* Phase order in superfluid helium films
+  * S. T. Bramwell, M. F. Faulkner, P. C. W. Holdsworth and A. Taroni
+  * EPL (Europhys. Lett.) 112 56003 (2015)
+
+* Topological-sector fluctuations and ergodicity breaking at the Berezinskii-Kosterlitz-Thouless
+transition
+  * M. F. Faulkner, S. T. Bramwell and P. C. W. Holdsworth
+  * Phys. Rev. B 91 155412 (2015)
+
+<!---
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
  
 Research Funding
 ======
@@ -61,16 +90,24 @@ Research Funding
   
 Talks
 ======
+
+<!---
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+-->
   
 Teaching
 ======
+
+
+
+<!---
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->
+
 Conference organization
 ======
 * Sampling methods in statistical physics and Bayesian inference
