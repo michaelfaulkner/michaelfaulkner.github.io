@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm an [EPSRC research fellow](https://epsrc.ukri.org/about/people/michaelfaulkner/) at the [University of Bristol](https://research-information.bristol.ac.uk/en/persons/michael-faulkner(76c7604a-6db1-4d4f-948e-db5a1f7afc2b).html) and a visiting scientist at [Ecole normale supérieure](http://www.phys.ens.fr/?lang=fr). Primarily, I model the effect of external parameters such as temperature and pressure on physical systems as disparate as superconducting materials, liquid batteries and biological proteins, but I also work closely with statisticians to develop algorithms both for physical models and computational data science. 
+I'm an [EPSRC research fellow](https://epsrc.ukri.org/about/people/michaelfaulkner/) at the [University of Bristol](https://research-information.bristol.ac.uk/en/persons/michael-faulkner(76c7604a-6db1-4d4f-948e-db5a1f7afc2b).html) and a visiting scientist at [Ecole normale supérieure](http://www.phys.ens.fr/?lang=fr). Primarily, I model the effect of external parameters such as temperature and pressure on physical systems as disparate as superconducting materials, liquid batteries and biological proteins, but I also work closely with statisticians to develop algorithms for computational physics and data science. For more details, please see my [research page](/research/).
 
+Short bio
+======
 After receiving my doctorate from University College London and Ecole normale supérieure de Lyon in 2015, I moved to Bristol for a short postdoc and then a teaching position in the School of Mathematics in 2016. I then moved to the School of Physics to start my EPSRC research fellowship in August 2017.
 
 <!---
