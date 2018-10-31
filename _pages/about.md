@@ -8,11 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm an [EPSRC research fellow](https://epsrc.ukri.org/about/people/michaelfaulkner/) at the [University of Bristol](https://research-information.bristol.ac.uk/en/persons/michael-faulkner(76c7604a-6db1-4d4f-948e-db5a1f7afc2b).html) and a visiting scientist at [Ecole normale supérieure](http://www.phys.ens.fr/?lang=fr). Primarily, I model the effect of external parameters such as temperature and pressure on physical systems as disparate as superconducting materials, liquid batteries and biological proteins. But I also work closely with statisticians to develop algorithms both for physical models and computational data science. 
-
-Short bio
-======
-After receiving my doctorate from University College London and Ecole normale supérieure de Lyon in 2015, I moved to Bristol for a short postdoc followed by a teaching position in the School of Mathematics, before then moving to the School of Physics to start my EPSRC fellowship in August 2017.
+I'm an [EPSRC research fellow](https://epsrc.ukri.org/about/people/michaelfaulkner/) at the [University of Bristol](https://research-information.bristol.ac.uk/en/persons/michael-faulkner(76c7604a-6db1-4d4f-948e-db5a1f7afc2b).html) and a visiting scientist at [Ecole normale supérieure](http://www.phys.ens.fr/?lang=fr). Primarily, I model the effect of external parameters such as temperature and pressure on physical systems as disparate as superconducting materials, liquid batteries and biological proteins, but I also work closely with statisticians to develop algorithms both for physical models and computational data science. 
+After receiving my doctorate from University College London and Ecole normale supérieure de Lyon in 2015, I moved to Bristol for a short postdoc in the School of Mathematics. This was followed by a teaching position, and finally a move to the School of Physics to start my EPSRC research fellowship in August 2017.
 
 <!---
 My research is centred on statistical physics, which means that I use statistics to model many particles interacting with one another in a single system. This allows us to predict and utilize the macroscopic properties of the materials and living matter used in modern technology and medicine. A lot of my time is spent developing computational algorithms to do this. This has led to collaborations with statisticians working in data science, where the same Markov-chain Monte Carlo methods are used. For more details, please see my [research page](/research/).
