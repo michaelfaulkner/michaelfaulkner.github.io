@@ -8,8 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
-### Employment History
-
+Employment History
+======
 * EPSRC Postdoctoral Research Fellow, University of Bristol, August 2017 – July 2020
   * Principal investigator on EPSRC fellowship EP/P033830/1 in the HH Wills Physics Laboratory.
   * Real and emergent long-range interactions in statistical physics.
@@ -27,8 +27,8 @@ redirect_from:
 * Postdoctoral Research Associate, University of Bristol, February – September 2016
   * Postdoctoral researcher in computational fluid dynamics in the School of Mathematics.
 
-### Education
-
+Education
+======
 * PhD Theoretical Physics, 2011 – 2015
   * University College London and Ecole normale supérieure de Lyon
   * Avec la mention très honorable (the highest available honour).
@@ -43,8 +43,8 @@ redirect_from:
   * University of Nottingham
   * First Class, finishing top of the academic year.
 
-### Publications
-
+Publications
+======
 * All-atom computations with irreversible Markov chains
   * M. F. Faulkner, L. Qin, A. C. Maggs and W. Krauth
   * J. Chem. Phys. 149, 064113 (2018)
@@ -77,8 +77,8 @@ transition
   {% endfor %}</ul>
 -->
  
-### Research Funding
-
+Research Funding
+======
 * EPSRC research fellowship EP/P033830/1, August 2017 – July 2020
   * £293,118.
   * Research fellow and principal investigator.
@@ -95,8 +95,8 @@ transition
   * Approximately £65,000.
   * Doctoral researcher.
   
-### Invited talks
-
+Invited talks
+======
 * Max Planck Institute for Molecular Cell Biology and Genetics, Dresden, April 2018
   * Rejection-free Monte Carlo in liquid water
 
@@ -112,20 +112,20 @@ transition
   {% endfor %}</ul>
 -->
 
-### Conference organization
-
+Conference organization
+======
 * Sampling methods in statistical physics and Bayesian inference
     * One-day satellite conference at the Isaac Newton Institute in Cambridge on 18 July 2017.
     * Theme: sampling from complex probability distributions, with an emphasis on nonreversible processes.
     * Connected scientists from statistical physics and Bayesian computation.
 
-### Supervisory roles
-
+Supervisory roles
+======
 * Co-supervisor: Liang Qin, PhD project, ENS Paris, 2017 – 2020
 * Co-supervisor: Robin Blackwell, MSci project, UCL Physics, 2015 – 2016
 
-### Widening participation
-
+Widening participation
+======
 * Teacher and mentor, DigiLocal High Tech Bristol and Bath, 2016 – 2018
   * Teach coding to 8- to 14-year-old state-school students from disadvantaged backgrounds.
   * Built a long-term partnership between Digilocal and the University of Bristol.
@@ -144,8 +144,8 @@ I was also involved in widening-participation projects while at UCL. During the 
 Widening participation in science, technology, engineering and maths (STEM) addresses both socio-economic imbalance in society and the problems associated with missing a large proportion of talent from an entire demographic. I am an ambassador of the educational charity STEM Learning.
 -->
 
-### Teaching
-
+Teaching
+======
 * School of Physics, University of Bristol, 2018 -- 2019
   * Co-supervisor: Statistical physics coding lab for third-year undergraduates.
 
