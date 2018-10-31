@@ -6,7 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-UK"
+theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "dark"
+locale                   : "en-GB"
 title                    : "Michael Faulkner"
 title_separator          : "-"
 name                     : &name "Michael Faulkner"
