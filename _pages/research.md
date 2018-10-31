@@ -8,7 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-I'm a statistical physicist, which means that I use statistics to model many particles interacting with one another in a single system. This allows us to predict and utilize the macroscopic properties of the materials and living matter used in modern technology and medicine. 
 
 My research focuses on the statistical physics of real and emergent long-range interactions, and their relationship with phase transitions in condensed matter. One application of my work is superconductivity, which is a state in which the electrical resistance of certain materials becomes zero at low temperatures. Two-dimensional and layered superconducting materials are governed by emergent long-range interactions, which drive a phase transition between the normal and superconducting states. I’m currently further developing [my model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.91.155412) of the mechanics of the phase transition to improve its predictive power.
  
