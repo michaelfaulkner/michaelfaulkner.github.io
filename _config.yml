@@ -114,7 +114,7 @@ author:
   wikipedia        :
   links:
     - label: "arXiv"
-    - icon: "images/arxiv-logo.png"
+    - icon: "arxiv-logo.png"
     - url: https://arxiv.org/search/?searchtype=author&query=Faulkner%2C+M+F"
 
 
