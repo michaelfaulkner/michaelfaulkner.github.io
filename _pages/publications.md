@@ -30,7 +30,7 @@ An electric-field representation of the harmonic XY model
 ======
 Michael F. Faulkner, Steven T. Bramwell and Peter C. W. Holdsworth
 <br/>
-[J. Phys.: Condens. Matter 29, 085402 (2017)]((http://doi.org/10.1088/1361-648X/aa523f)) ([arXiv:1610.06692](https://arxiv.org/abs/1610.06692))
+[J. Phys.: Condens. Matter 29, 085402 (2017)](http://doi.org/10.1088/1361-648X/aa523f) ([arXiv:1610.06692](https://arxiv.org/abs/1610.06692))
 
 The harmonic XY (HXY) model is a lattice phase (or spin) model in which the classical phases interact via a piecewise parabolic interaction. In this paper, we presented a theory of the HXY model as a phase-model analogue of the two-dimensional electrolyte of [Phys. Rev. B  91, 155412](http://doi.org/10.1103/PhysRevB.91.155412) (see below).  While the electrolyte is an excellent model for investigating the mechanics of the BKT transition, it is a less realistic model of superfluid and superconducting condensate films and layers than the HXY model as its charges cannot be described as vortices in a phase field. We used our theory to explain how the HXY model recreates the high-temperature specific heat of condensates, and why this is strikingly different from that of the electrolyte. We then mapped the topological sectors of the electrolyte to global HXY condensate-phase twists, which may explain the nonergodicity in the condensate-phase field measured in layered cuprates at the superconducting transition Paper accepted with zero revisions.
 
