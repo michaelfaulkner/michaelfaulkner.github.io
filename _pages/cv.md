@@ -112,22 +112,6 @@ Invited talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 -->
-  
-Teaching
-======
-* School of Physics, University of Bristol, 2018 -- 2019
-  * Co-convenor: Statistical physics coding lab for third-year undergraduates.
-
-* School of Mathematics, University of Bristol, 2016 -- 2017
-  * Problems classes: Probability, statistics and linear algebra to first-year undergraduates.
-  * Problems classes: Applied partial differential equations to second-year undergraduates.
-
-
-<!---
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
 
 Conference organization
 ======
@@ -159,4 +143,20 @@ I teach coding to 8- to 14-year-old state-school students from disadvantaged bac
 I was also involved in widening-participation projects while at UCL. During the summer of 2014, I voluntarily devised and ran a quantum mechanics summer school for 17-year-old state-school students on free school meals through the charity in2scienceUK. In 2012-13, I voluntarily tutored maths to 15-year-old state-school students on free school meals through the charity Action Tutoring.
  
 Widening participation in science, technology, engineering and maths (STEM) addresses both socio-economic imbalance in society and the problems associated with missing a large proportion of talent from an entire demographic. I am an ambassador of the educational charity STEM Learning.
+-->
+
+Teaching
+======
+* School of Physics, University of Bristol, 2018 -- 2019
+  * Co-supervisor: Statistical physics coding lab for third-year undergraduates.
+
+* School of Mathematics, University of Bristol, 2016 -- 2017
+  * Problems classes: Probability, statistics and linear algebra to first-year undergraduates.
+  * Problems classes: Applied partial differential equations to second-year undergraduates.
+
+
+<!---
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 -->
