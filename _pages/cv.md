@@ -51,7 +51,7 @@ Publications
 
 * Kinetic-energy choice in hybrid/Hamiltonian Monte Carlo
   * S. Livingstone, M. F. Faulkner and G. O. Roberts
-  * In submission; arXiv:1706.02649 (2017)
+  * Biometrika (in press); arXiv:1706.02649
 
 * An electric-field representation of the harmonic XY model
   * M. F. Faulkner, S. T. Bramwell and P. C. W. Holdsworth

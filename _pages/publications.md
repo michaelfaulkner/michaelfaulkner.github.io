@@ -21,7 +21,7 @@ Kinetic-energy choice in Hamiltonian/hybrid Monte Carlo
 ======
 Samuel Livingstone, Michael F. Faulkner and Gareth O. Roberts
 <br/>
-Under review ([arXiv:1706.02649](https://arxiv.org/abs/1706.02649))
+Biometrika (in press) ([arXiv:1706.02649](https://arxiv.org/abs/1706.02649))
 
 We investigated how different choices of kinetic energy in Hamiltonian Monte Carlo affect algorithm performance. To this end, we introduced two quantities which can be easily evaluated, the composite gradient and the implicit noise. Results were established on integrator stability and geometric convergence, and we showed that choices of kinetic energy that result in heavy-tailed momentum distributions can exhibit an undesirable negligible-moves property. We outlined a general efficiency-robustness trade off, and discussed implementations which rely on approximate gradients. We showed that the standard choice of a Gaussian momentum distribution is not always optimal in terms of either robustness or efficiency.
 
