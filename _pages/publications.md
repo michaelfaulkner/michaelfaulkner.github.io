@@ -8,15 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-All-atom computations with irreversible Markov chains
-======
-Michael F. Faulkner, Liang Qin, Anthony C. Maggs and Werner Krauth
-<br/>
-[J. Chem. Phys. 149, 064113 (2018)](http://doi.org/10.1063/1.5036638) ([arXiv:1804.05795](https://arxiv.org/abs/1804.05795))
-
-The event-chain Monte Carlo (ECMC) method is an irreversible Markov process based on the factorized Metropolis filter and the concept of lifted Markov chains. We extended ECMC to all-atom models of multi-particle interactions that include the long-ranged Coulomb potential. For a three-dimensional systems composed of charge-neutral molecules, the algorithmic complexity to advance N particles an O(1) distance is O(N log N). Our particle-particle ECMC method achieved this without the interpolating mesh required for the efficient implementation of other modern Coulomb algorithms. An event-driven, cell-veto-based implementation samples the equilibrium Boltzmann distribution using neither time-step approximations nor spatial cutoffs on the range of the interaction potentials. This opened up many prospects for ECMC in soft condensed-matter and biological physics.
-
-
 Kinetic-energy choice in Hamiltonian/hybrid Monte Carlo
 ======
 Samuel Livingstone, Michael F. Faulkner and Gareth O. Roberts
@@ -24,6 +15,15 @@ Samuel Livingstone, Michael F. Faulkner and Gareth O. Roberts
 Biometrika (in press) ([arXiv:1706.02649](https://arxiv.org/abs/1706.02649))
 
 We investigated how different choices of kinetic energy in Hamiltonian Monte Carlo affect algorithm performance. To this end, we introduced two quantities which can be easily evaluated, the composite gradient and the implicit noise. Results were established on integrator stability and geometric convergence, and we showed that choices of kinetic energy that result in heavy-tailed momentum distributions can exhibit an undesirable negligible-moves property. We outlined a general efficiency-robustness trade off, and discussed implementations which rely on approximate gradients. We showed that the standard choice of a Gaussian momentum distribution is not always optimal in terms of either robustness or efficiency.
+
+
+All-atom computations with irreversible Markov chains
+======
+Michael F. Faulkner, Liang Qin, Anthony C. Maggs and Werner Krauth
+<br/>
+[J. Chem. Phys. 149, 064113 (2018)](http://doi.org/10.1063/1.5036638) ([arXiv:1804.05795](https://arxiv.org/abs/1804.05795))
+
+The event-chain Monte Carlo (ECMC) method is an irreversible Markov process based on the factorized Metropolis filter and the concept of lifted Markov chains. We extended ECMC to all-atom models of multi-particle interactions that include the long-ranged Coulomb potential. For a three-dimensional systems composed of charge-neutral molecules, the algorithmic complexity to advance N particles an O(1) distance is O(N log N). Our particle-particle ECMC method achieved this without the interpolating mesh required for the efficient implementation of other modern Coulomb algorithms. An event-driven, cell-veto-based implementation samples the equilibrium Boltzmann distribution using neither time-step approximations nor spatial cutoffs on the range of the interaction potentials. This opened up many prospects for ECMC in soft condensed-matter and biological physics.
 
 
 An electric-field representation of the harmonic XY model
