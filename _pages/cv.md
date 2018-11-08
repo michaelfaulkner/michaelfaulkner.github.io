@@ -45,13 +45,13 @@ Education
 
 Publications
 ======
-* All-atom computations with irreversible Markov chains
-  * M. F. Faulkner, L. Qin, A. C. Maggs and W. Krauth
-  * J. Chem. Phys. 149, 064113 (2018)
-
 * Kinetic-energy choice in hybrid/Hamiltonian Monte Carlo
   * S. Livingstone, M. F. Faulkner and G. O. Roberts
   * Biometrika (in press); arXiv:1706.02649
+
+* All-atom computations with irreversible Markov chains
+  * M. F. Faulkner, L. Qin, A. C. Maggs and W. Krauth
+  * J. Chem. Phys. 149, 064113 (2018)
 
 * An electric-field representation of the harmonic XY model
   * M. F. Faulkner, S. T. Bramwell and P. C. W. Holdsworth
