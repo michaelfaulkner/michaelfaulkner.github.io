@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Employment History
+Employment history
 ======
 * EPSRC Postdoctoral Research Fellow, University of Bristol, August 2017 – July 2020
   * Principal investigator on EPSRC fellowship EP/P033830/1 in the HH Wills Physics Laboratory.
@@ -77,7 +77,7 @@ transition
   {% endfor %}</ul>
 -->
  
-Research Funding
+Research funding
 ======
 * EPSRC research fellowship EP/P033830/1, August 2017 – July 2020
   * £293,118.
