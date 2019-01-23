@@ -29,7 +29,7 @@ Employment History
 
 Education
 ======
-* PhD Theoretical Physics, 2011 – 2015
+* PhD Theoretical Physics, November 2011 – January 2015
   * University College London and Ecole normale supérieure de Lyon
   * Avec la mention très honorable (the highest available honour).
   * Supervisors: Steven T. Bramwell and Peter C. W. Holdsworth.
@@ -45,31 +45,31 @@ Education
 
 Publications
 ======
-* All-atom computations with irreversible Markov chains
-  * M. F. Faulkner, L. Qin, A. C. Maggs and W. Krauth
-  * J. Chem. Phys. 149, 064113 (2018)
-
 * Kinetic-energy choice in hybrid/Hamiltonian Monte Carlo
   * S. Livingstone, M. F. Faulkner and G. O. Roberts
-  * Biometrika (in press); arXiv:1706.02649
+  * Biometrika (in press); ([arXiv:1706.02649](https://arxiv.org/abs/1706.02649))
+
+* All-atom computations with irreversible Markov chains
+  * M. F. Faulkner, L. Qin, A. C. Maggs and W. Krauth
+  * [J. Chem. Phys. 149, 064113 (2018)](http://doi.org/10.1063/1.5036638) ([arXiv:1804.05795](https://arxiv.org/abs/1804.05795))
 
 * An electric-field representation of the harmonic XY model
   * M. F. Faulkner, S. T. Bramwell and P. C. W. Holdsworth
-  * J. Phys.: Condens. Matter 29 085402 (2017)
+  * [J. Phys.: Condens. Matter 29, 085402 (2017)](http://doi.org/10.1088/1361-648X/aa523f) ([arXiv:1610.06692](https://arxiv.org/abs/1610.06692))
 
 * From quantum to thermal topological-sector fluctuations of strongly interacting bosons in a
 ring lattice
   * T. Roscilde, M. F. Faulkner, S. T. Bramwell and P. C. W. Holdsworth
-  * New J. Phys. 18 075003 (2016) (by invitation)
+  * [New J. Phys. 18, 075003 (2016)](http://doi.org/10.1088/1367-2630/18/7/075003) ([arXiv:1602.06247](https://arxiv.org/abs/1602.06247))
 
 * Phase order in superfluid helium films
   * S. T. Bramwell, M. F. Faulkner, P. C. W. Holdsworth and A. Taroni
-  * EPL (Europhys. Lett.) 112 56003 (2015)
+  * [EPL (Europhys. Lett.) 112, 56003 (2015)](http://doi.org/10.1209/0295-5075/112/56003) ([arXiv:1508.07773](https://arxiv.org/abs/1508.07773))
 
 * Topological-sector fluctuations and ergodicity breaking at the Berezinskii-Kosterlitz-Thouless
 transition
   * M. F. Faulkner, S. T. Bramwell and P. C. W. Holdsworth
-  * Phys. Rev. B 91 155412 (2015)
+  * [Phys. Rev. B 91, 155412 (2015)](http://doi.org/10.1103/PhysRevB.91.155412) ([1502.00815](https://arxiv.org/abs/1502.00815))
 
 <!---
   <ul>{% for post in site.publications reversed %}
@@ -119,30 +119,20 @@ Conference organization
     * Theme: sampling from complex probability distributions, with an emphasis on nonreversible processes.
     * Connected scientists from statistical physics and Bayesian computation.
 
-Supervisory roles
-======
-* Co-supervisor: Liang Qin, PhD project, ENS Paris, 2017 – 2020
-* Co-supervisor: Robin Blackwell, MSci project, UCL Physics, 2015 – 2016
-
 Widening participation
 ======
 * Teacher and mentor, DigiLocal High Tech Bristol and Bath, 2016 – 2018
-  * Teach coding to 8- to 14-year-old state-school students from disadvantaged backgrounds.
+  * Taught coding to 8- to 14-year-old state-school students from disadvantaged backgrounds.
   * Built a long-term partnership between Digilocal and the University of Bristol.
+* Mentor, Social Mobility Foundation, 2017 - 2018
+  * Mentored a state-school pupil from a disadvantaged background.
+  * Offered educational and career advice. 
 * Summer school coordinator and teacher, in2scienceUK, Summer 2014
   * Devised and directed a summer school for state-school students from disadvantaged backgrounds.
   * Taught the introductory theory of quantum mechanics.
 * Mathematics tutor, Action Tutoring, 2012 – 2013
   * Tutored mathematics to state-school students from disadvantaged backgrounds.
   * Acted as a mentor for the students.
-
-<!---
-I teach coding to 8- to 14-year-old state-school students from disadvantaged backgrounds. The initiative is organized by DigiLocal HBB to address the imbalance of people from disadvantaged backgrounds working in the tech sector. I helped to build a long-term partnership between Digilocal and the University of Bristol, and am also a mentor for the Social Mobility Foundation.
- 
-I was also involved in widening-participation projects while at UCL. During the summer of 2014, I voluntarily devised and ran a quantum mechanics summer school for 17-year-old state-school students on free school meals through the charity in2scienceUK. In 2012-13, I voluntarily tutored maths to 15-year-old state-school students on free school meals through the charity Action Tutoring.
- 
-Widening participation in science, technology, engineering and maths (STEM) addresses both socio-economic imbalance in society and the problems associated with missing a large proportion of talent from an entire demographic. I am an ambassador of the educational charity STEM Learning.
--->
 
 Teaching
 ======
