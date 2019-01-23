@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Employment History
+Employment history
 ======
 * EPSRC Postdoctoral Research Fellow, University of Bristol, August 2017 – July 2020
   * Principal investigator on EPSRC fellowship EP/P033830/1 in the HH Wills Physics Laboratory.
@@ -53,6 +53,10 @@ Publications
   * M. F. Faulkner, L. Qin, A. C. Maggs and W. Krauth
   * [J. Chem. Phys. 149, 064113 (2018)](http://doi.org/10.1063/1.5036638) ([arXiv:1804.05795](https://arxiv.org/abs/1804.05795))
 
+* All-atom computations with irreversible Markov chains
+  * M. F. Faulkner, L. Qin, A. C. Maggs and W. Krauth
+  * J. Chem. Phys. 149, 064113 (2018)
+
 * An electric-field representation of the harmonic XY model
   * M. F. Faulkner, S. T. Bramwell and P. C. W. Holdsworth
   * [J. Phys.: Condens. Matter 29, 085402 (2017)](http://doi.org/10.1088/1361-648X/aa523f) ([arXiv:1610.06692](https://arxiv.org/abs/1610.06692))
@@ -77,7 +81,7 @@ transition
   {% endfor %}</ul>
 -->
  
-Research Funding
+Research funding
 ======
 * EPSRC research fellowship EP/P033830/1, August 2017 – July 2020
   * £293,118.
