@@ -10,12 +10,12 @@ redirect_from:
 
 Employment history
 ======
-* EPSRC Postdoctoral Research Fellow, University of Bristol, August 2017 – July 2020
+* EPSRC Postdoctoral Research Fellow, University of Bristol, August 2017 – present
   * Principal investigator on EPSRC fellowship EP/P033830/1 in the HH Wills Physics Laboratory.
   * Real and emergent long-range interactions in statistical physics.
   * Markov-chain Monte Carlo (MCMC) algorithms for physics and Bayesian computation.
 
-* Visiting scientist, Ecole normale supérieure, Paris, August 2017 – July 2020
+* Visiting scientist, Ecole normale supérieure, Paris, September 2017 – October 2018
   * Collaborative project developing MCMC algorithms for systems with long-range interactions (e.g., water).
 
 * Visiting scientist, Max Planck Institute for the Physics of Complex Systems, Dresden, April 2018
@@ -97,6 +97,12 @@ Research funding
   
 Invited talks
 ======
+* Laboratoire de Physique Théorique, Toulouse, December 2019
+  * Adventures in electrolytes: from nonergodicity in emergent ones to rejection-free Monte Carlo in real ones
+
+* Laboratoire Ondes et Matière d’Aquitaine, Bordeaux, December 2019
+ * Adventures in electrolytes: from nonergodicity in emergent ones to rejection-free Monte Carlo in real ones
+
 * Max Planck Institute for Molecular Cell Biology and Genetics, Dresden, April 2018
   * Rejection-free Monte Carlo in liquid water
 
