@@ -101,7 +101,7 @@ Invited talks
   * Adventures in electrolytes: from nonergodicity in emergent ones to rejection-free Monte Carlo in real ones
 
 * Laboratoire Ondes et Matière d’Aquitaine, Bordeaux, December 2019
- * Adventures in electrolytes: from nonergodicity in emergent ones to rejection-free Monte Carlo in real ones
+  * Adventures in electrolytes: from nonergodicity in emergent ones to rejection-free Monte Carlo in real ones
 
 * Max Planck Institute for Molecular Cell Biology and Genetics, Dresden, April 2018
   * Rejection-free Monte Carlo in liquid water
