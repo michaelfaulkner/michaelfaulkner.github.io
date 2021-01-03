@@ -88,11 +88,11 @@ Research funding
   * Visiting researcher.
 
 * Funded by ANR JCJC-2013 ArtiQ , December 2014 – February 2015
-  * Approximately £5,400.
+  * Approximately £8,000.
   * Doctoral researcher.
 
 * CNRS – UCL IMPACT joint studentship, December 2011 – November 2014
-  * Approximately £65,000.
+  * Approximately £130, 000.
   * Doctoral researcher.
   
 Invited talks
