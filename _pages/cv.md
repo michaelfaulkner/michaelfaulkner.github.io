@@ -45,9 +45,13 @@ Education
 
 Publications
 ======
+* JeLLyFysh-Version1.0 -- a Python application for all-atom event-chain Monte Carlo
+  * P. Höllmer, L. Qin, M. F. Faulkner, A. C. Maggs and W. Krauth
+  * [Comput. Phys. Commun. 253, 10716 (2020)](https://doi.org/10.1016/j.cpc.2020.107168) ([arXiv:1907.12502](https://arxiv.org/abs/1907.12502))
+
 * Kinetic-energy choice in hybrid/Hamiltonian Monte Carlo
   * S. Livingstone, M. F. Faulkner and G. O. Roberts
-  * Biometrika (in press); ([arXiv:1706.02649](https://arxiv.org/abs/1706.02649))
+  * [Biometrika 106, 303 (2019)](https://doi.org/10.1093/biomet/asz013) ([arXiv:1706.02649](https://arxiv.org/abs/1706.02649))
 
 * All-atom computations with irreversible Markov chains
   * M. F. Faulkner, L. Qin, A. C. Maggs and W. Krauth
