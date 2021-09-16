@@ -1,13 +1,14 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
- author_profile: true
- ---
-
- You can also find my articles on [Google Scholar](googlescholar).  Open-source versions of my publications are available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Faulkner%2C+M+F).
+author_profile: true
+redirect_from:
+  - /publications
+---
 
  {% include base_path %}
+
+ You can also find my articles on [Google Scholar](googlescholar).  Open-source versions of my publications are available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Faulkner%2C+M+F).
 
  {% for post in site.publications reversed %}
    {% include archive-single.html %}
