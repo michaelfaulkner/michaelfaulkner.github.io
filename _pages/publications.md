@@ -14,7 +14,7 @@ redirect_from:
    {% include archive-single.html %}
  {% endfor %}
 
-<!---
+
 JeLLyFysh-Version1.0 -- a Python application for all-atom event-chain Monte Carlo
 ======
 Philipp Höllmer, Liang Qin, Michael F. Faulkner, A. C. Maggs and Werner Krauth
@@ -75,4 +75,3 @@ Michael F. Faulkner, Steven T. Bramwell and Peter C. W. Holdsworth
 [Phys. Rev. B 91, 155412 (2015)](http://doi.org/10.1103/PhysRevB.91.155412) ([1502.00815](https://arxiv.org/abs/1502.00815))
 
 We found topological-sector fluctuations to be a signal of the high-temperature phase of the Berezinskii-Kosterlitz-Thouless transition in the two-dimensional electrolyte. Our framework augments the charge-interaction representation of Kosterlitz and Thouless to include topological sectors of the electric field, which reflect charges tracing closed paths around the torus. Topological-sector fluctuations are absent in the low-temperature phase, where charges are confined in neutral pairs.  This reflects a nonergodicity in the electric field. In contrast, topological-sector fluctuations are nonzero in the ergodic, high-temperature phase, where the charges are deconfined. Topological order is defined by the absence of topological-sector fluctuations. This nonergodicity was cited as a base explanation for the [nonergodic dynamics measured in layered cuprates](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.134503) at the superconducting transition. Paper accepted with zero revisions.
--->
