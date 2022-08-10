@@ -10,12 +10,12 @@ redirect_from:
 
 Employment history
 ======
-* EPSRC Postdoctoral Research Fellow, University of Bristol, August 2017 – July 2020
+* EPSRC Postdoctoral Research Fellow, University of Bristol, August 2017 – present
   * Principal investigator on EPSRC fellowship EP/P033830/1 in the HH Wills Physics Laboratory.
   * Real and emergent long-range interactions in statistical physics.
   * Markov-chain Monte Carlo (MCMC) algorithms for physics and Bayesian computation.
 
-* Visiting scientist, Ecole normale supérieure, Paris, August 2017 – July 2020
+* Visiting scientist, Ecole normale supérieure, Paris, September 2017 – October 2018
   * Collaborative project developing MCMC algorithms for systems with long-range interactions (e.g., water).
 
 * Visiting scientist, Max Planck Institute for the Physics of Complex Systems, Dresden, April 2018
@@ -45,9 +45,13 @@ Education
 
 Publications
 ======
+* JeLLyFysh-Version1.0 -- a Python application for all-atom event-chain Monte Carlo
+  * P. Höllmer, L. Qin, M. F. Faulkner, A. C. Maggs and W. Krauth
+  * [Comput. Phys. Commun. 253, 10716 (2020)](https://doi.org/10.1016/j.cpc.2020.107168) ([arXiv:1907.12502](https://arxiv.org/abs/1907.12502))
+
 * Kinetic-energy choice in hybrid/Hamiltonian Monte Carlo
   * S. Livingstone, M. F. Faulkner and G. O. Roberts
-  * Biometrika (in press); ([arXiv:1706.02649](https://arxiv.org/abs/1706.02649))
+  * [Biometrika 106, 303 (2019)](https://doi.org/10.1093/biomet/asz013) ([arXiv:1706.02649](https://arxiv.org/abs/1706.02649))
 
 * All-atom computations with irreversible Markov chains
   * M. F. Faulkner, L. Qin, A. C. Maggs and W. Krauth
@@ -88,15 +92,21 @@ Research funding
   * Visiting researcher.
 
 * Funded by ANR JCJC-2013 ArtiQ , December 2014 – February 2015
-  * Approximately £5,400.
+  * Approximately £8,000.
   * Doctoral researcher.
 
 * CNRS – UCL IMPACT joint studentship, December 2011 – November 2014
-  * Approximately £65,000.
+  * Approximately £130, 000.
   * Doctoral researcher.
   
 Invited talks
 ======
+* Laboratoire de Physique Théorique, Toulouse, December 2019
+  * Adventures in electrolytes: from nonergodicity in emergent ones to rejection-free Monte Carlo in real ones
+
+* Laboratoire Ondes et Matière d’Aquitaine, Bordeaux, December 2019
+  * Adventures in electrolytes: from nonergodicity in emergent ones to rejection-free Monte Carlo in real ones
+
 * Max Planck Institute for Molecular Cell Biology and Genetics, Dresden, April 2018
   * Rejection-free Monte Carlo in liquid water
 

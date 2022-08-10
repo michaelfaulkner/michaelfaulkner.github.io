@@ -6,13 +6,30 @@ redirect_from:
   - /publications
 ---
 
-{% include base_path %}
+ {% include base_path %}
 
-Kinetic-energy choice in Hamiltonian/hybrid Monte Carlo
+ You can also find my articles on [Google Scholar](googlescholar).  Open-source versions of my publications are available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Faulkner%2C+M+F).
+
+ {% for post in site.publications reversed %}
+   {% include archive-single.html %}
+ {% endfor %}
+
+
+<!---
+JeLLyFysh-Version1.0 -- a Python application for all-atom event-chain Monte Carlo
+======
+Philipp Höllmer, Liang Qin, Michael F. Faulkner, A. C. Maggs and Werner Krauth
+<br/>
+[Comput. Phys. Commun. 253, 10716 (2020)](https://doi.org/10.1016/j.cpc.2020.107168) ([arXiv:1907.12502](https://arxiv.org/abs/1907.12502))
+
+We present JeLLyFysh-Version1.0, an open-source Python application for event-chain Monte Carlo (ECMC), an event-driven irreversible Markov-chain Monte Carlo algorithm for classical N-body simulations in statistical mechanics, biophysics and electrochemistry. The application’s architecture mirrors the mathematical formulation of ECMC. Local potentials, long-range Coulomb interactions and multi-body bending potentials are covered, as well as bounding potentials and cell systems including the cell-veto algorithm. Configuration files illustrate a number of specific implementations for interacting atoms, dipoles, and water molecules.
+
+
+Kinetic-energy choice in hybrid/Hamiltonian Monte Carlo
 ======
 Samuel Livingstone, Michael F. Faulkner and Gareth O. Roberts
 <br/>
-Biometrika (in press) ([arXiv:1706.02649](https://arxiv.org/abs/1706.02649))
+[Biometrika 106, 303 (2019)](https://doi.org/10.1093/biomet/asz013) ([arXiv:1706.02649](https://arxiv.org/abs/1706.02649))
 
 We investigated how different choices of kinetic energy in Hamiltonian Monte Carlo affect algorithm performance. To this end, we introduced two quantities which can be easily evaluated, the composite gradient and the implicit noise. Results were established on integrator stability and geometric convergence, and we showed that choices of kinetic energy that result in heavy-tailed momentum distributions can exhibit an undesirable negligible-moves property. We outlined a general efficiency-robustness trade off, and discussed implementations which rely on approximate gradients. We showed that the standard choice of a Gaussian momentum distribution is not always optimal in terms of either robustness or efficiency.
 
@@ -59,13 +76,4 @@ Michael F. Faulkner, Steven T. Bramwell and Peter C. W. Holdsworth
 [Phys. Rev. B 91, 155412 (2015)](http://doi.org/10.1103/PhysRevB.91.155412) ([1502.00815](https://arxiv.org/abs/1502.00815))
 
 We found topological-sector fluctuations to be a signal of the high-temperature phase of the Berezinskii-Kosterlitz-Thouless transition in the two-dimensional electrolyte. Our framework augments the charge-interaction representation of Kosterlitz and Thouless to include topological sectors of the electric field, which reflect charges tracing closed paths around the torus. Topological-sector fluctuations are absent in the low-temperature phase, where charges are confined in neutral pairs.  This reflects a nonergodicity in the electric field. In contrast, topological-sector fluctuations are nonzero in the ergodic, high-temperature phase, where the charges are deconfined. Topological order is defined by the absence of topological-sector fluctuations. This nonergodicity was cited as a base explanation for the [nonergodic dynamics measured in layered cuprates](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.134503) at the superconducting transition. Paper accepted with zero revisions.
-
-<!---
-{% if author.googlescholar %} You can also find my articles on my Google Scholar profile. {% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 -->
