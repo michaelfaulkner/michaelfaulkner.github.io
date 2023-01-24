@@ -43,6 +43,7 @@ Education
   * University of Nottingham
   * First Class, finishing top of the academic year.
 
+<!---
 Publications
 ======
 * JeLLyFysh-Version1.0 -- a Python application for all-atom event-chain Monte Carlo
@@ -74,6 +75,7 @@ ring lattice
 transition
   * M. F. Faulkner, S. T. Bramwell and P. C. W. Holdsworth
   * [Phys. Rev. B 91, 155412 (2015)](http://doi.org/10.1103/PhysRevB.91.155412) ([1502.00815](https://arxiv.org/abs/1502.00815))
+-->
 
 <!---
   <ul>{% for post in site.publications reversed %}
@@ -86,6 +88,9 @@ Research funding
 * EPSRC research fellowship EP/P033830/1, August 2017 – July 2020
   * £293,118.
   * Research fellow and principal investigator.
+
+* Visiting scientist, Ecole normale supérieure, September 2017 – October 2018
+  * £21,500 in-kind contribution to my EPSRC fellowship.
 
 * Max Planck Institute fellowship, April 2018
   * Approximately €2,100.
@@ -101,19 +106,26 @@ Research funding
   
 Invited talks
 ======
-* Laboratoire de Physique Théorique, Toulouse, December 2019
+* Theory Group Seminar, Department of Physics, University of Warwick, January 2023
+  * General symmetry breaking at a topological phase transition
+* Departmental Seminar, Centre for Mathematical Sciences, University of Plymouth, December 2022
+  * Statistical physics and its sampling algorithms: how it works and why a statistician should care
+* Theory Group Seminar, Department of Physics, University of Birmingham, October 2022
+  * General symmetry breaking at a topological phase transition
+
+* Departmental Seminar, Laboratoire de Physique Théorique, Toulouse, December 2019
   * Adventures in electrolytes: from nonergodicity in emergent ones to rejection-free Monte Carlo in real ones
 
-* Laboratoire Ondes et Matière d’Aquitaine, Bordeaux, December 2019
+* Departmental Seminar, Laboratoire Ondes et Matière d’Aquitaine, Bordeaux, December 2019
   * Adventures in electrolytes: from nonergodicity in emergent ones to rejection-free Monte Carlo in real ones
 
-* Max Planck Institute for Molecular Cell Biology and Genetics, Dresden, April 2018
+* Theory Group Seminar, Max Planck Institute for Molecular Cell Biology and Genetics, Dresden, April 2018
   * Rejection-free Monte Carlo in liquid water
 
-* HH Wills Physics Laboratory, University of Bristol, March 2018
+* Theory Group Seminar, HH Wills Physics Laboratory, University of Bristol, March 2018
   * Ergodicity breaking in two-dimensional systems with XY symmetry
 
-* Institut Laue-Langevin, Grenoble, November 2015
+* Theory Group Seminar, Institut Laue-Langevin, Grenoble, November 2015
   * Topology and emergence in Berezinksii-Kosterlitz-Thouless systems
 
 <!---
