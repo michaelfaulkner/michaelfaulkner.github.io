@@ -134,14 +134,23 @@ Invited talks
   {% endfor %}</ul>
 -->
 
-Conference organization
+Conference organisation
 ======
 * Sampling methods in statistical physics and Bayesian inference
     * One-day satellite conference at the Isaac Newton Institute in Cambridge on 18 July 2017.
     * Theme: sampling from complex probability distributions, with an emphasis on nonreversible processes.
     * Connected scientists from statistical physics and Bayesian computation.
 
-Widening participation
+Teaching
+======
+* School of Physics, University of Bristol, 2018 -- 2019
+  * Co-supervisor: Statistical physics coding lab for third-year undergraduates.
+
+* School of Mathematics, University of Bristol, 2016 -- 2017
+  * Problems classes: Probability, statistics and linear algebra to first-year undergraduates.
+  * Problems classes: Applied partial differential equations to second-year undergraduates.
+
+Outreach and widening participation
 ======
 * Teacher and mentor, DigiLocal High Tech Bristol and Bath, 2016 – 2018
   * Taught coding to 8- to 14-year-old state-school students from disadvantaged backgrounds.
@@ -155,15 +164,6 @@ Widening participation
 * Mathematics tutor, Action Tutoring, 2012 – 2013
   * Tutored mathematics to state-school students from disadvantaged backgrounds.
   * Acted as a mentor for the students.
-
-Teaching
-======
-* School of Physics, University of Bristol, 2018 -- 2019
-  * Co-supervisor: Statistical physics coding lab for third-year undergraduates.
-
-* School of Mathematics, University of Bristol, 2016 -- 2017
-  * Problems classes: Probability, statistics and linear algebra to first-year undergraduates.
-  * Problems classes: Applied partial differential equations to second-year undergraduates.
 
 
 <!---
