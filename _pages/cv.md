@@ -10,10 +10,18 @@ redirect_from:
 
 Employment history
 ======
-* EPSRC Postdoctoral Research Fellow, University of Bristol, August 2017 – present
-  * Principal investigator on EPSRC fellowship EP/P033830/1 in the HH Wills Physics Laboratory.
-  * Real and emergent long-range interactions in statistical physics.
-  * Markov-chain Monte Carlo (MCMC) algorithms for physics and Bayesian computation.
+* Assistant Professor, University of Warwick, November 2023 – present
+  * Assistant Professor in Predictive Modelling and Scientific Computing in the [Warwick Centre for Predictive Modelling](https://warwick.ac.uk/fac/sci/wcpm/).
+  * Research will focus on superdiffusive Monte Carlo for rare events and correlated dynamics in statistical science.
+  * Teaching will focus on [MSc Predictive Modelling and Scientific Computing](https://warwick.ac.uk/study/postgraduate/courses/pga-pgcert-pgdip-msc-predictive-modelling-scientific-computing).
+
+* EPSRC Postdoctoral Research Fellow, University of Bristol, August 2017 – October 2023
+  (3-year grant interrupted by extended sickness absence – 3–3.5 years of full-time research since PhD)
+  * Principal investigator on EPSRC fellowship EP/P033830/1 in the [School of Physics](https://www.bristol.ac.uk/physics/research/theory/).
+  * Discovered the ‘general symmetry breaking’ common to many 2D materials – predicts a memory timescale.
+  * Co-created rejection-free Monte Carlo (with the software package JeLLyFysh) for stable molecular simulation.
+  * Co-produced an in-depth article for stats/machine learning on statistical physics and its simulation algorithms.
+  * Supervised two final-year undergraduate projects and co-convened an undergraduate laboratory-project module.
 
 * Visiting scientist, Ecole normale supérieure, Paris, September 2017 – October 2018
   * Collaborative project developing MCMC algorithms for systems with long-range interactions (e.g., water).
@@ -22,10 +30,10 @@ Employment history
   * Pilot project developing industrial standard version of our new MCMC water algorithm.
 
 * Senior Teaching Associate, University of Bristol, September 2016 – July 2017
-  * Undergraduate teaching while pursuing independent research interests in the School of Mathematics.
+  * Undergraduate teaching while pursuing independent research interests in the [School of Mathematics](https://www.bristol.ac.uk/maths/).
 
 * Postdoctoral Research Associate, University of Bristol, February – September 2016
-  * Postdoctoral researcher in computational fluid dynamics in the School of Mathematics.
+  * Postdoctoral researcher in computational fluid dynamics in the [School of Mathematics](https://www.bristol.ac.uk/maths/).
 
 Education
 ======
@@ -85,31 +93,43 @@ transition
  
 Research funding
 ======
-* EPSRC research fellowship EP/P033830/1, August 2017 – July 2020
+* EPSRC research fellowship EP/P033830/1, August 2017 – October 2023
   * £293,118.
   * Research fellow and principal investigator.
+  * Three year grant interrupted by extended sickness absence.
 
 * Visiting scientist, Ecole normale supérieure, September 2017 – October 2018
   * £21,500 in-kind contribution to my EPSRC fellowship.
 
 * Max Planck Institute fellowship, April 2018
-  * Approximately €2,100.
+  * Approximately €2,500.
   * Visiting researcher.
 
 * Funded by ANR JCJC-2013 ArtiQ , December 2014 – February 2015
-  * Approximately £8,000.
+  * Approximately £5,000.
   * Doctoral researcher.
 
 * CNRS – UCL IMPACT joint studentship, December 2011 – November 2014
-  * Approximately £130, 000.
+  * Approximately £100, 000.
   * Doctoral researcher.
   
 Invited talks
 ======
+* Departmental Seminar, Warwick Centre for Predictive Modelling, November 2023
+  * Fast sampling at phase transitions in statistical physics
+    
+* Algorithms and Computationally Intensive Inference Seminars, University of Warwick, October 2023
+  * Fast sampling at phase transitions in statistical physics
+    
+* Perfect sampling workshop, Royal Statistical Society, June 2023
+  * Fast sampling at phase transitions in statistical physics
+
 * Theory Group Seminar, Department of Physics, University of Warwick, January 2023
   * General symmetry breaking at a topological phase transition
+
 * Departmental Seminar, Centre for Mathematical Sciences, University of Plymouth, December 2022
   * Statistical physics and its sampling algorithms: how it works and why a statistician should care
+
 * Theory Group Seminar, Department of Physics, University of Birmingham, October 2022
   * General symmetry breaking at a topological phase transition
 
