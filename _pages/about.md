@@ -16,11 +16,11 @@ I'm an Assistant Professor at the [Warwick Centre for Predictive Modelling](http
 I started my academic career as a PhD student at [University College London](https://www.ucl.ac.uk/condensed-matter-material-physics/) and [Ecole normale supérieure de Lyon](http://www.ens-lyon.fr/PHYSIQUE/teams/physique-theorique/research-topics/statistical-physics), under the co-supervision of [Steve Bramwell](https://www.ucl.ac.uk/physics-astronomy/people/professor-steven-bramwell) and [Peter Holdsworth](http://www.ens-lyon.fr/en/research/honors-and-awards/peter-holdsworth-physicist-laboratoire-de-physique).  After a short postdoc and teaching position at [Bristol Mathematics](https://www.bristol.ac.uk/maths/), I then moved to [Bristol Physics](https://www.bristol.ac.uk/physics/research/theory/) in August 2017 after winning an EPSRC postdoctoral research fellowship.  I was also a visiting scientist at [Ecole normale supérieure](http://www.phys.ens.fr/?lang=fr) from September 2017 to October 2018, and won a Max Planck Institute fellowship to visit the [Max Planck Institute for the Physics of Complex Systems](https://www.pks.mpg.de) in Dresden in April 2018.
 
 For more details in general, please visit 
+- [GitHub](https://github.com/michaelfaulkner)
 - [Google Scholar](https://scholar.google.com/citations?user=wDxigWUAAAAJ&hl=fr&oi=sra)
 - [arXiv](https://arxiv.org/search/?searchtype=author&query=Faulkner%2C+M+F)
 - [ORCiD](https://orcid.org/0000-0002-9116-2878)
 - [My Warwick webpage](https://research-information.bris.ac.uk/en/persons/michael-faulkner) (coming soon!)
-- [My personal website](https://michaelfaulkner.github.io)
 
 <!---
 My research is centred on statistical physics, which means that I use statistics to model many particles interacting with one another in a single system. This allows us to predict and utilize the macroscopic properties of the materials and living matter used in modern technology and medicine. A lot of my time is spent developing computational algorithms to do this. This has led to collaborations with statisticians working in data science, where the same Markov-chain Monte Carlo methods are used. For more details, please see my [research page](/research/).
