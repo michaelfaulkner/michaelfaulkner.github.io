@@ -20,7 +20,7 @@ For more details in general, please visit
 - [Google Scholar](https://scholar.google.com/citations?user=wDxigWUAAAAJ&hl=fr&oi=sra)
 - [arXiv](https://arxiv.org/search/?searchtype=author&query=Faulkner%2C+M+F)
 - [ORCiD](https://orcid.org/0000-0002-9116-2878)
-- [My Warwick webpage](https://research-information.bris.ac.uk/en/persons/michael-faulkner) (coming soon!)
+- [My Warwick webpage](https://warwick.ac.uk/fac/sci/eng/people/michael_faulkner/)
 
 <!---
 My research is centred on statistical physics, which means that I use statistics to model many particles interacting with one another in a single system. This allows us to predict and utilize the macroscopic properties of the materials and living matter used in modern technology and medicine. A lot of my time is spent developing computational algorithms to do this. This has led to collaborations with statisticians working in data science, where the same Markov-chain Monte Carlo methods are used. For more details, please see my [research page](/research/).
