@@ -17,7 +17,7 @@ Employment history
   * Teach third-year and [MSc](https://warwick.ac.uk/study/postgraduate/courses/pga-pgcert-pgdip-msc-predictive-modelling-scientific-computing)/[CDT](https://warwick.ac.uk/fac/sci/hetsys/) modules on physics and Monte Carlo simulation/sampling algorithms.
 
 * EPSRC Postdoctoral Research Fellow, University of Bristol, August 2017 – October 2023
-  (3-year grant with extended sickness absence. ~3.5 years of full-time research from PhD to end of grant.)
+  (3-year grant with extended sickness absence. Around 3.5 years of full-time research from PhD to end of grant.)
   * Principal investigator on EPSRC fellowship EP/P033830/1 in the [School of Physics](https://www.bristol.ac.uk/physics/research/theory/).
   * Discovered the ‘general symmetry breaking’ common to many 2D materials – predicts a memory timescale.
   * Co-created rejection-free Monte Carlo (with the software package JeLLyFysh) for stable molecular simulation.
