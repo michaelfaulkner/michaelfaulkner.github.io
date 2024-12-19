@@ -11,9 +11,10 @@ redirect_from:
 Employment history
 ======
 * Assistant Professor, University of Warwick, November 2023 – present
-  * Assistant Professor in Predictive Modelling and Scientific Computing in the [Warwick Centre for Predictive Modelling](https://warwick.ac.uk/fac/sci/wcpm/).
-  * Research will focus on superdiffusive Monte Carlo for rare events and correlated dynamics in statistical science.
-  * Teaching will focus on [MSc Predictive Modelling and Scientific Computing](https://warwick.ac.uk/study/postgraduate/courses/pga-pgcert-pgdip-msc-predictive-modelling-scientific-computing).
+  * Assistant Professor in Predictive Modelling and Scientific Computing.
+  * Leading a research group in the [Warwick Centre for Predictive Modelling](https://warwick.ac.uk/fac/sci/wcpm/) (housed in Engineering).
+  * Research focuses on deterministic sampling algorithms in the physical sciences, with connection to data science.
+  * Teach third-year and [MSc](https://warwick.ac.uk/study/postgraduate/courses/pga-pgcert-pgdip-msc-predictive-modelling-scientific-computing)/[CDT](https://warwick.ac.uk/fac/sci/hetsys/) modules on physics and Monte Carlo simulation/sampling algorithms.
 
 * EPSRC Postdoctoral Research Fellow, University of Bristol, August 2017 – October 2023
   (3-year grant with extended sickness absence. ~3.5 years of full-time research from PhD to end of grant.)
