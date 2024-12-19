@@ -115,6 +115,21 @@ Research funding
   
 Invited talks
 ======
+* Computational Chemistry Seminar, University of Warwick, December 2024
+  * Piecewise deterministic Markov processes for molecular simulation
+
+* Stochastic systems for anomalous diffusion, Isaac Newton Institute, November 2024
+  * Breaking symmetry to save symmetry: asymmetric event-chain momentum sampling in statistical physics
+
+* Statistics Seminar, University of Bristol, November 2024
+  * Piecewise deterministic Markov processes for the physical sciences
+
+* Fluid Dynamics Seminars, University of Warwick, June 2024
+  * A journey from superfluid to ferromagnetic films
+
+* CoSInES-Bayes4Health Masterclass, University of Warwick, April 2024
+  * Sampling algorithms for phase transitions in statistical physics
+
 * Departmental Seminar, Warwick Centre for Predictive Modelling, November 2023
   * Fast sampling at phase transitions in statistical physics
     
@@ -156,13 +171,32 @@ Invited talks
 
 Conference organisation
 ======
+* Monte Carlo sampling: beyond the diffusive regime
+    * One-week conference at the Isaac Newton Institute in Cambridge in November 2024.
+    * Theme: non-diffusive Monte Carlo sampling from complex probability distributions.
+
+* CoSInES-Bayes4Health Masterclass
+    * One-week masterclass at the University of Warwick in April 2024.
+    * Theme: pedagogical talks (aimed at Bayesian statisticians) on modern simulation techniques for contemporary problems in the physical sciences. 
+
 * Sampling methods in statistical physics and Bayesian inference
-    * One-day satellite conference at the Isaac Newton Institute in Cambridge on 18 July 2017.
+    * One-day conference at the Isaac Newton Institute in Cambridge on 18 July 2017.
     * Theme: sampling from complex probability distributions, with an emphasis on nonreversible processes.
-    * Connected scientists from statistical physics and Bayesian computation.
 
 Teaching
 ======
+* School of Engineering, University of Warwick, 2024 -- 2025
+  * MSc co-lecturer: give half of ES98D Particle-based Modelling.
+
+* School of Engineering, University of Warwick, 2023 -- 2025
+  * Third-year co-lecturer: give half of ES386 Dynamics of Vibrating Systems.
+
+* School of Engineering, University of Warwick, 2023 -- 2025
+  * MSc project supervisor/examiner for group and individual projects.
+
+* School of Engineering, University of Warwick, 2023 -- 2024
+  * MSc guest lecturer for ES98E Scientific Machine Learning.
+
 * School of Physics, University of Bristol, 2018 -- 2019
   * Co-supervisor: Statistical physics coding lab for third-year undergraduates.
 
