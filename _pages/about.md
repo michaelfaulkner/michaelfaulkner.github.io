@@ -22,9 +22,12 @@ For more details in general, please visit
 - [ORCiD](https://orcid.org/0000-0002-9116-2878)
 - [My Warwick webpage](https://warwick.ac.uk/fac/sci/eng/people/michael_faulkner/)
 
-## 🌟🤝🌟  Research group
+## 🌟🌟  Research group
 - Rachel Kane is working with me and [James Edwards](https://www.plymouth.ac.uk/staff/james-edwards-2) on PDMP sampling in computational quantum field theory.
 - James Gulliford is working with me and [Gareth Roberts](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/roberts/) on correlated dynamics at the BKT transition and optimal PDMP dynamics at the stat-phys/Bayes-comp interface.
+
+## 🤝💼  Vacancies
+- I have a [HetSys PhD project](https://warwick.ac.uk/fac/sci/hetsys/themes/projects2025/016) advertised for 2025-26 entry. The project will develop novel simulation algorithms for sampling from multimodal energy landscapes, with immediate applications to polymer models.  Informal enquiries to michael DOT faulkner AT warwick DOT ac DOT uk are welcome.
 
 ## 📫  Contact
 - Email me at michael DOT faulkner AT warwick DOT ac DOT uk
