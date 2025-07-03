@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Statistical physics makes predictions about the collective behaviour of large numbers of interacting particles — often with a focus on how that collective behaviour leads to phase transitions (such as the freezing of a liquid into a solid).
+Statistical physics makes predictions about the collective behaviour of large numbers of interacting particles — often with a focus on how that collective behaviour leads to phase transitions, such as the freezing of a liquid into a solid.
 
 One of the main focusses of my research has been a special phase transition that occurs in a broad class of 2D materials.  One example material is the superconducting film — where superconductivity is the state of zero electrical resistance achieved by certain materials at low temperature.  I recently discovered the [symmetry-breaking mechanism](https://doi.org/10.1103/PhysRevB.109.085405) that provokes the superconducting state.  This built on [my model](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.91.155412) for the ergodic freezing of global topological twists (i.e. Chern numbers) at the transition — which provided the first description of broken ergodicity at low temperature.  The two properties are [connected by emergent electrostatics](https://doi.org/10.1088/1367-2630/add7fd), and experimentalists had previously [used the latter as a base explanation](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.134503) for strongly correlated resistance fluctuations at the superconducting transition in films of lanthanum strontium copper oxide.  I am now applying my symmetry-breaking framework to develop a full explanation for these strongly correlated dynamics near the transition.
 
