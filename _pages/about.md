@@ -23,7 +23,7 @@ For more details in general, please visit
 - [My Warwick webpage](https://warwick.ac.uk/fac/sci/eng/people/michael_faulkner/)
 
 ## 🌟🌟  Research group
-- [Rachel Kane](https://github.com/rachel-kane/rachel-kane) is working with me and [James Edwards](https://www.plymouth.ac.uk/staff/james-edwards-2) on PDMP sampling in computational quantum field theory.
+- [Rachel Kane](https://github.com/rachel-kane) is working with me and [James Edwards](https://www.plymouth.ac.uk/staff/james-edwards-2) on PDMP sampling in computational quantum field theory.
 - James Gulliford is working with me and [Gareth Roberts](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/roberts/) on correlated dynamics at the BKT transition and optimal PDMP dynamics at the stat-phys/Bayes-comp interface.
 
 ## 🤝💼  Vacancies
